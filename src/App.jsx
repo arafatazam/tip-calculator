@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-     <h1>Tip Calculator!</h1>
+     <h1 className="text-3xl font-bold underline">Tip Calculator!</h1>
     </>
   )
 }
